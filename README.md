@@ -1,3 +1,3 @@
-# The-speaker
+# The-Speaker
 
-  The speaker is a prototype virtual assistant which is currently under development..
+  The Speaker is a prototype virtual assistant which is currently under development..
